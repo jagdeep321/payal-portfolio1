@@ -300,7 +300,7 @@ export default function ProjectsSection() {
                         fill
                         sizes="(max-width: 640px) 95vw, (max-width: 1024px) 50vw, 550px"
                         style={{
-                          objectFit: "cover",
+                          objectFit: "contain",
                           transition: "transform 0.5s cubic-bezier(0.16, 1, 0.3, 1)",
                         }}
                       />
@@ -318,7 +318,7 @@ export default function ProjectsSection() {
                             fontSize: "0.82rem",
                             fontWeight: 500,
                             fontFamily: "var(--font-heading)",
-                            backdropFilter: "blur(4px)",
+                            // backdropFilter: "blur(4px)",
                           }}
                         >
                           {img.caption}

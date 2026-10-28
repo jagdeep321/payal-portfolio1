@@ -6,14 +6,14 @@
  * the paths or URLs in this file.
  */
 
-export const INSTAGRAM_PROFILE_URL = "https://instagram.com"; 
+export const INSTAGRAM_PROFILE_URL = "https://instagram.com/digitalspark_00"; 
 // ^ NOTE: Replace the above URL with Payal's actual Instagram profile URL once available.
 // Example: "https://instagram.com/payal_digitalmarketing"
 
-export const WHATSAPP_PHONE = "919463182321";
-export const DISPLAY_PHONE = "+91 94631 82321";
-export const CALL_PHONE_TEL = "tel:9463182321";
-export const EMAIL_ADDRESS = "payal@gmail.com";
+export const WHATSAPP_PHONE = "917888717976";
+export const DISPLAY_PHONE = "+91 78887 17976";
+export const CALL_PHONE_TEL = "tel:7888717976";
+export const EMAIL_ADDRESS = "itspayal85@gmail.com";
 export const WHATSAPP_PREFILLED_MESSAGE = "Hi Payal, I'm interested in your digital marketing services.";
 export const WHATSAPP_URL = `https://wa.me/${WHATSAPP_PHONE}?text=${encodeURIComponent(WHATSAPP_PREFILLED_MESSAGE)}`;
 
@@ -60,7 +60,7 @@ export const PORTFOLIO_DATA = {
     location: "Amritsar, Punjab, India",
     // Replaceable hero portrait configuration
     portrait: {
-      src: "/images/portrait.jpg",
+      src: "/images/payal.jpeg",
       fallbackUrl: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=1000&q=85",
       alt: "Payal Arora - Digital Marketer & Social Media Executive",
       caption: "Creative Director & Growth Strategist",
@@ -147,13 +147,13 @@ export const PORTFOLIO_DATA = {
       deliverables: "High-resolution kitchen promotional creatives, reels scripting, and targeted audience outreach.",
       images: [
         {
-          src: "/images/br-kitchen-1.jpg",
+          src: "/images/payal interior1.PNG",
           fallbackUrl: "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1000&q=85",
           alt: "BR Interiors - Modern modular kitchen interior design with luxury island and ambient lighting",
           caption: "Modern Modular Kitchen Architecture",
         },
         {
-          src: "/images/br-kitchen-2.jpg",
+          src: "/images/payal interior2.PNG",
           fallbackUrl: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1000&q=85",
           alt: "BR Interiors - Contemporary modular kitchen cabinetry craftsmanship and detail",
           caption: "Contemporary Kitchen Cabinetry Detailing",
@@ -170,13 +170,13 @@ export const PORTFOLIO_DATA = {
       deliverables: "High-quality promotional graphics, social media posts, and visual content tailored specifically to attract and engage a cafe audience.",
       images: [
         {
-          src: "/images/cafe-brand-1.jpg",
+          src: "/images/payal cafe1.jpeg",
           fallbackUrl: "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=1000&q=85",
           alt: "Cafe Branding - Premium artisanal coffee presentation and promotional visual identity",
           caption: "Cafe Brand Atmosphere & Coffee Presentation",
         },
         {
-          src: "/images/cafe-brand-2.jpg",
+          src: "/images/payal cafe2.jpeg",
           fallbackUrl: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1000&q=85",
           alt: "Cafe Menu Marketing - Social media culinary showcase and promotional layout",
           caption: "Culinary Menu Promotion & Social Visuals",
@@ -212,11 +212,11 @@ export const PORTFOLIO_DATA = {
     headline: "Ready to Spark Your Digital Growth?",
     subheading:
       "Whether you need a complete social media overhaul, engaging reels, or a streamlined ad campaign, I'm ready to help your brand stand out. Let's build something great together.",
-    phone: "9463182321",
-    phoneDisplay: "+91 94631 82321",
-    phoneTel: "tel:9463182321",
-    email: "payal@gmail.com",
-    emailMailto: "mailto:payal@gmail.com",
+    phone: "7888717976",
+    phoneDisplay: "+91 78887 17976",
+    phoneTel: "tel:7888717976",
+    email: "itspayal85@gmail.com",
+    emailMailto: "mailto:itspayal85@gmail.com",
     whatsappUrl: WHATSAPP_URL,
     instagramUrl: INSTAGRAM_PROFILE_URL,
     instagramLabel: "@payalarora (Configure in portfolio.ts)",
