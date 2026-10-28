@@ -163,7 +163,7 @@ export const PORTFOLIO_DATA = {
     },
     {
       id: "graphics-design",
-      title: "Graphics Design",
+      title: "Cafe : Apna Chai Wala",
       category: "Cafe & Culinary Brand Identity",
       role: "Brand Identity & Graphic Designer",
       scope: "Designed custom, eye-catching graphics to elevate the cafe's brand identity and promote its menu offerings.",
